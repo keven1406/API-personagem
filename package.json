@@ -1,0 +1,22 @@
+{
+  "name": "api-personagem",
+  "version": "0.0.1",
+  "description": "Uma simples API de personagens",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keven1406/API-personagem.git"
+  },
+  "author": "Elias Keven",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keven1406/API-personagem/issues"
+  },
+  "homepage": "https://github.com/keven1406/API-personagem#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
